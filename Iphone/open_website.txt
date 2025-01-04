@@ -5,12 +5,12 @@ REM Version 2.0
 DELAY 1000 
 GUI SPACE 
 DELAY 1000 
-STRING youtube 
+STRING safari  
 DELAY 1000 
 ENTER 
 DELAY 1000 
 GUI L 
 REM Insert your website below 
-STRING https://youtu.be/xvFZjo5PgG0?si=pgpE4R-CuqlIB9Hs
+STRING Ucoz. com
 DELAY 1000 
 ENTER
